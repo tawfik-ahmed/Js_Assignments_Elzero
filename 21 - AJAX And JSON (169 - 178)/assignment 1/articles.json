@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "author": "Elzero",
+        "category": "Web Development",
+        "title": "Programming Language",
+        "content": "JavaScript"
+    },
+    {
+        "id": 2,
+        "author": "Elzero",
+        "category": "Web Development",
+        "title": "Programming Language",
+        "content": "JavaScript"
+    },
+    {
+        "id": 3,
+        "author": "Elzero",
+        "category": "Web Development",
+        "title": "Programming Language",
+        "content": "JavaScript"
+    },
+    {
+        "id": 4,
+        "author": "Elzero",
+        "category": "Web Development",
+        "title": "Programming Language",
+        "content": "JavaScript"
+    },
+    {
+        "id": 5,
+        "author": "Elzero",
+        "category": "Web Development",
+        "title": "Programming Language",
+        "content": "JavaScript"
+    }
+]
